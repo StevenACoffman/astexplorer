@@ -67,7 +67,7 @@
     "acorn-jsx": "^5.3.1",
     "acorn-loose": "^8.1.0",
     "acorn-to-esprima": "^2.0.8",
-    "astexplorer-go": "^1.0.0",
+    "steve-astexplorer-go": "^1.8.0",
     "astexplorer-refmt": "^1.0.1",
     "astexplorer-syn": "^1.0.48",
     "babel-core": "npm:babel-core@^6",

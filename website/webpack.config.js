@@ -63,7 +63,7 @@ const plugins = [
   // go //
   new webpack.NormalModuleReplacementPlugin(
     /^go$/,
-    require.resolve('astexplorer-go/go')
+    require.resolve('steve-astexplorer-go/go')
   ),
 
   // eslint //
